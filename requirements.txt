@@ -1,0 +1,6 @@
+msgpack==1.0.3
+numpy==1.21.5
+pygame==2.1.0
+pyzmq==22.3.0
+scipy==1.7.3
+zmq==0.0.0
